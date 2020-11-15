@@ -1,2 +1,2 @@
 # English to Marathi converter
-Converts certain English phrases to Marathi
+App that converts certain English phrases to Marathi
